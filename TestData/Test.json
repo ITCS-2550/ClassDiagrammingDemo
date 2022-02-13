@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "B",
+    "Rank": 1
+  },
+  {
+    "Type": "C",
+    "Data": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Location": "https://test.example.com"
+  }
+]
